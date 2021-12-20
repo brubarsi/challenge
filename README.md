@@ -1,5 +1,5 @@
 # GoogleColab
-Foi utilizado o GoogleColab para realizar o desenvolvimento do projeto.
+Foi utilizado o GoogleColab para realizar o desenvolvimento do projeto. Todo o código está presente no arquivo: projeto.ipynb
 
 https://colab.research.google.com/
 
