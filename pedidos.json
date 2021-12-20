@@ -1,0 +1,41 @@
+{
+	"Id": 12,
+	"Date": "2021-01-01T10: 23: 23",
+	"TotalValue": 12.5,
+	"Status": 3,
+	"Channel": "Marketplace",
+	"Customer": {
+		"Name": "John Junior",
+		"Document": "182731982",
+		"Address": "Junior St. 78",
+		"Number": "901",
+		"Complement": "Apto 88",
+		"Neighborhood": "Central Park",
+		"City": "Big City",
+		"State": "ST"
+	},
+	"Invoice": {
+		"Number": "1232",
+		"Serie": "1",
+		"AccessKey": "35210411281358000156550010000361091656273380",
+		"IssueDate": "2021-01-02T11:23:23",
+		"Value": "13.4"
+	},
+	"Delivery": [{
+		"Transporter": "Express Delivery",
+		"Trackingnumber": "AB312313CA1",
+		"Address": "Junior St. 78",
+		"Number": "901",
+		"Complement": "Apto 88",
+		"Neighborhood": "Central Park",
+		"City": "Big City",
+		"State": "ST"
+	}],
+	"Items": [{
+		"Id": "12_1",
+		"Sku": "PRODUCT_1",
+		"Name": "Awesome Super Product",
+		"Quantity": "2.0",
+		"Price": "2.5"
+	}]
+}
